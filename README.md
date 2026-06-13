@@ -52,7 +52,7 @@
 </h3>
 
 ### ⚡ My Projects
-- [Dynamic Retail Dashboard](https://github.com/arpitverma90/Dynamic-Retail-Dashboard) - Dynamic Retail Dashboard: An interactive analytics tool for tracking sales, inventory, and customer insights in real time.
+- [Dynamic Retail Dashboard]([https://github.com/AditiSahoo46/Dynamic-Retail-Dashboard])- Dynamic Retail Dashboard: An interactive analytics tool for tracking sales, inventory, and customer insights in real time.
 
 
  <h3 align="center">
