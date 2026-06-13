@@ -29,7 +29,7 @@
  ## <picture><img src = "https://github.com/ChinmayKaitade/ChinmayKaitade/blob/main/about_me.gif" width = 50px></picture> About Me
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
 
-- 👋 Hi, I’m Arpit Verma
+- 👋 Hi, I’m Aditi Sahoo
 - 👀 I’m interested in Cycling, Running and Reading Books
 - 🔭 I’m currently working on improving my skills in Data Science with Excel, SQL, PowerBI and Python
 - 🌱 I’m also learning Data Science to become a well-rounded data engineer
