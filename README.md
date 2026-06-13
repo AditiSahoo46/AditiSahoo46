@@ -71,7 +71,7 @@ fun_fact: "I turn messy data into clean stories 📖📊"
 ## 📌 Featured Project
 
 <p align="center">
-  <a href="https://github.com/YOUR-USERNAME/Cricket-Analysis-Dashboard">
+  <a href="https://github.com/AditiSahoo46/Cricket-Analysis-Dashboard">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=Cricket-Analysis-Dashboard&theme=tokyonight&hide_border=true" />
   </a>
 </p>
