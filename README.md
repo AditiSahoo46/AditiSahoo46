@@ -61,15 +61,6 @@ fun_fact: "I turn messy data into clean stories 📖📊"
 </p>
 
 ---
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=darkhub&no-frame=true&row=1&column=7&margin-w=10" />
-</p>
-
----
-
 ## 🐍 Contribution Snake Graph
 
 <p align="center">
