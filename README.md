@@ -73,7 +73,7 @@
 </h3>
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=arpitverma90&show_icons=true&theme=radical" alt="Arpit Verma's GitHub stats" style="width: 49%;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AditiSahoo46&show_icons=true&theme=radical" alt="Aditi Sahoo's GitHub stats" style="width: 49%;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitverma90&layout=compact&theme=radical" alt="Top Languages" style="width: 49%;"/>
 </div>
 
