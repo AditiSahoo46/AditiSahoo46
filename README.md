@@ -30,7 +30,7 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-name: Your Name
+name: Aditi Sahoo
 role: Data Analyst | BI Developer
 currently_building: Cricket Analysis Dashboard 🏏
 currently_learning: Advanced DAX, Data Modeling, Cloud Analytics
