@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Your Name</h1>
+<h1 align="center">Hi 👋, I'm Aditi Sahoo</h1>
 <h3 align="center">A passionate Data Analyst | Power BI | Python | SQL</h3>
 
 <p align="center">
@@ -15,7 +15,7 @@
 - 🔭 I'm currently working on **Cricket Analysis Dashboard (Power BI)**
 - 🌱 I'm currently learning **Advanced DAX & Data Modeling**
 - 💬 Ask me about **Power BI, Python, SQL, Data Analytics**
-- 📫 How to reach me: **your-email@example.com**
+- 📫 How to reach me: **aditisahoo62@gmail.com**
 - ⚡ Fun fact: **I love turning raw data into stories**
 
 ---
