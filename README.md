@@ -60,7 +60,7 @@
 </h3>
 
 <div align="center"> 
-  <a href="[https://www.linkedin.com/in/arpit-verma-96510524b](https://www.linkedin.com/in/aditi-sahoo-498851219?utm_source=share_via&utm_content=profile&utm_medium=member_android)]" target="_blank">
+  <a href="https://www.linkedin.com/in/aditi-sahoo-498851219/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href=mailto:"vermaarp2361@gmail.com">
