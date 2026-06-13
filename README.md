@@ -1,66 +1,101 @@
-<h1 align="center">Hi 👋, I'm Aditi Sahoo</h1>
-<h3 align="center">A passionate Data Analyst | Power BI | Python | SQL</h3>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+  Hi, I'm Your Name 
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=40&fontColor=fff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=220&section=header&text=Data%20Analyst%20|%20Power%20BI%20|%20Python&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=38" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Power+BI+Developer;Python+%7C+SQL+%7C+DAX;Turning+Data+into+Insights+%F0%9F%93%8A;Always+Learning+%F0%9F%9A%80" />
-</p>
-
----
-
-### 🚀 About Me
-- 🔭 I'm currently working on **Cricket Analysis Dashboard (Power BI)**
-- 🌱 I'm currently learning **Advanced DAX & Data Modeling**
-- 💬 Ask me about **Power BI, Python, SQL, Data Analytics**
-- 📫 How to reach me: **aditisahoo62@gmail.com**
-- ⚡ Fun fact: **I love turning raw data into stories**
-
----
-
-### 🛠️ Languages & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,sql,powerbi,git,github,vscode,excel,tableau,html" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=radical&hide_border=true" width="48%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Power+BI+Developer;Python+%7C+SQL+%7C+DAX+Enthusiast;Building+Data-Driven+Dashboards+%F0%9F%93%8A;Open+to+Collaborations+%F0%9F%A4%9D" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical&hide_border=true" width="50%" />
+  <a href="https://linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://your-portfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&style=for-the-badge&color=blueviolet" />
 </p>
 
 ---
 
-### 🐍 Contribution Snake
+## 🧑‍💻 About Me
+
+```yaml
+name: Your Name
+role: Data Analyst | BI Developer
+currently_building: Cricket Analysis Dashboard 🏏
+currently_learning: Advanced DAX, Data Modeling, Cloud Analytics
+ask_me_about: [Power BI, Python, SQL, DAX, Data Visualization]
+fun_fact: "I turn messy data into clean stories 📖📊"
+```
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake.svg" />
+  <img src="https://skillicons.dev/icons?i=python,r,mysql,postgres,powerbi,tableau,git,github,vscode,excel,html,css,linux&theme=dark" />
 </p>
 
 ---
 
-### 🌐 Connect With Me
+## 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=tokyo-night&hide_border=true" width="49%" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=darkhub&no-frame=true&row=1&column=7&margin-w=10" />
+</p>
+
+---
+
+## 🐍 Contribution Snake Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 💬 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+## 📌 Featured Project
+
+<p align="center">
+  <a href="https://github.com/YOUR-USERNAME/Cricket-Analysis-Dashboard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=Cricket-Analysis-Dashboard&theme=tokyonight&hide_border=true" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&style=flat-square&color=blue" alt="profile views" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=footer" />
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
